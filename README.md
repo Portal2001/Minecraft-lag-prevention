@@ -5,7 +5,7 @@ First most common lag is from mobs either from mob farms or not optimized well
   - [spark](https://www.spigotmc.org/resources/spark.57242/)
   - timings(this method is not recommended due to performance hit)
 - Prevention
-  - optimize your server with [Guide1 by papermc](https://eternity.community/index.php/paper-optimization/)[Guide2 by purpurmc](https://github.com/YouHaveTrouble/minecraft-optimization)
+  - optimize your server with [Guide1 by papermc](https://eternity.community/index.php/paper-optimization/)  [Guide2 by purpurmc](https://github.com/YouHaveTrouble/minecraft-optimization)
   - use [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-18.86923/)
     - helps to optimize large mob farms
   - use [EntityDetection](https://www.spigotmc.org/resources/entitydetection-tile-entity-support.20588/)
