@@ -43,3 +43,4 @@ Its commonly used by players to make 0 tick farm (without observer or continuous
     - entity-per-chunk-save-limit
       - llama_spit: 3
   
+Want to get best plugin for your self see this guide [[Best-minecraft-plugins]](https://github.com/Fickletcell/Best-minecraft-plugins)
