@@ -12,6 +12,10 @@ First most common lag is from mobs either from mob farms or not optimized well
     - helps to find the most populated chunks in whole world.
   - use [AntiRaidFarm](https://www.spigotmc.org/resources/antiraidfarm-block-cheaty-infinite-raid-farms.83283/)
     - helps to stop nonstop raids farms
+  - use [Spawner Collectors](https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/)
+    - store mob spawners in gui and produce mobs in gui
+    - Spawner Collectors are asynchronous
+    - help in performance improvement
 ## Redstone lag
 Its commonly used by players to make 0 tick farm (without observer or continuous)
 - How to find out?
