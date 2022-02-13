@@ -1,4 +1,8 @@
 # Minecraft-lag-prevention
+## Recommended server software
+- [Pufferfish](https://ci.pufferfish.host/job/Pufferfish-1.18/)
+- [Paper](https://papermc.io/downloads)
+- [Purpur](https://purpurmc.org/)
 ## Mob/entity lag
 First most common lag is from mobs either from mob farms or not optimized well
 - How to find out?
@@ -29,7 +33,7 @@ Its commonly used by players to make 0 tick farm (without observer or continuous
   - use [AntiRedstoneClock](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) 
     - helps to cut down redstone clocks according to TPS
     - for teleport to the clock can use [Redstone Clock Detector](https://dev.bukkit.org/projects/redstone-clock-detector)
-## Other common lag machines
+## Other lag machines
   - Armor stands 
     - armor-stands-tick: false in paper.yml
       - stop the tick on Armor stands
@@ -42,5 +46,15 @@ Its commonly used by players to make 0 tick farm (without observer or continuous
     - rare event but can be solved
     - entity-per-chunk-save-limit
       - llama_spit: 3
-  
+## Common mistake
+- Chunk lag
+   - not pre-generated world
+      - use [Chunky](https://www.spigotmc.org/resources/chunky.81534/) to prevent
+   - having more than 3 survival worlds
+      - more the world more the lag
+- don't use clearlagg like plugins
+   - the features they give makes server lag more such as
+      - clear mob (if you don't want that many mobs then optimize your server by decreasing spawn rate)
+      - clear items (most players lost their items by this use despawn items in config)
+      - Etc.
 Want to get best plugin for your self see this guide [[Best-minecraft-plugins]](https://github.com/Fickletcell/Best-minecraft-plugins)
