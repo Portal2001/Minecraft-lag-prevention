@@ -57,4 +57,5 @@ Its commonly used by players to make 0 tick farm (without observer or continuous
       - clear mob (if you don't want that many mobs then optimize your server by decreasing spawn rate)
       - clear items (most players lost their items by this use despawn items in config)
       - Etc.
+
 Want to get best plugin for your self see this guide [[Best-minecraft-plugins]](https://github.com/Fickletcell/Best-minecraft-plugins)
